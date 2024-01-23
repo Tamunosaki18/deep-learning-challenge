@@ -5,10 +5,10 @@ deep-learning-challenge
 
 Instructions
 
--The repository contains .ipynb Jupyter Notebook files for an initial model, and also three optimisation models.
--Model .h5 files and .hdf5 files for the weights saved every 5 epochs are saved in folders named according to each model
--The objective is to improve the accuracy of the classifier to above 75%
--Finally a report is included written as a Markdown Source File Report_Analysis.md
+- The repository contains .ipynb Jupyter Notebook files for an initial model, and also three optimisation models.
+- Model .h5 files and .hdf5 files for the weights saved every 5 epochs are saved in folders named according to each model
+- The objective is to improve the accuracy of the classifier to above 75%
+- Finally a report is included written as a Markdown Source File Report_Analysis.md
 
 References
 
